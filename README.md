@@ -4,7 +4,8 @@
 Music Composition/Generation with Deep Learning Networks
 
 ## Team members
-Yi-Ting Cheng, Yen-Sung Chen
+Yen-Sung Chen (chenpine)
+Yi-Ting Cheng (Avillage)
 
 ## Introduction
 Interacting with music, people always play roles like performers, composers, and listeners. We commonly involve in several music activities including singing, playing instruments, improvising, and composing. Deep Learning Networks music system can identify different types of structure from composer's work and then use them to produce a new work in the similar style. Therefore, Deep Learning Networks can help people compose music, which introduces the masterpieces of musicians. It will change people's original inspiration and creativity in the music.
