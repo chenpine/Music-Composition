@@ -1,6 +1,6 @@
 # Music-Composition
 
-# Title
+## Title
 Music Composition/Generation with Deep Learning Networks
 
 ## Team members
